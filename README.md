@@ -1,10 +1,13 @@
+![clean data](https://github.com/JaneNnyawira/Data-Cleaning-on-Excel/assets/134518125/a3fa490e-8374-4886-88ce-7bfe0af8811e)
+
+
 INTRODUCTION   
 
 * Data cleaning is essential when dealing with a dataset. 
 
 * Removing incorrect data will ensure an accurate, complete, consistent, and valid dataset. 
 
-* These basic 12 steps in Excel can be helpful in data cleaning.
+* 12 basic steps of data cleaning - MS Excel.
 
 DATA CLEANING STEPS
 

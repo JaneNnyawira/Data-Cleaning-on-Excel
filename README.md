@@ -1,4 +1,4 @@
-![clean data](https://github.com/JaneNnyawira/Data-Cleaning-on-Excel/assets/134518125/a3fa490e-8374-4886-88ce-7bfe0af8811e)
+![clean data](https://github.com/JaneNnyawira/Data-Cleaning-on-Excel/assets/134518125/6627abae-ee58-4523-af90-4927e9a6954e)
 
 
 INTRODUCTION   

@@ -1,7 +1,9 @@
+# Data-Cleaning-on-Excel
+
 ![clean data](https://github.com/JaneNnyawira/Data-Cleaning-on-Excel/assets/134518125/6627abae-ee58-4523-af90-4927e9a6954e)
 
 
-INTRODUCTION   
+# Introduction   
 
 * Data cleaning is essential when dealing with a dataset. 
 
@@ -9,7 +11,7 @@ INTRODUCTION
 
 * 12 basic steps of data cleaning - MS Excel.
 
-DATA CLEANING STEPS
+# Data Cleaning Steps
 
 * Autofit Columns and Rows
    
@@ -35,7 +37,7 @@ DATA CLEANING STEPS
 
 * Formatting
 
-CONCLUSION
+#Conclusion
 
 * However, depending on how much a dataset needs cleaning, you can find more steps required.
 * For the detailed project: https://medium.com/@nllnyawira/data-cleaning-on-ms-excel-6f2cd855f1a2

@@ -37,4 +37,5 @@ DATA CLEANING STEPS
 
 CONCLUSION
 
-* However, depending on how much a dataset needs cleaning, you can find more steps required :)
+* However, depending on how much a dataset needs cleaning, you can find more steps required.
+* For the detailed project: https://medium.com/@nllnyawira/data-cleaning-on-ms-excel-6f2cd855f1a2
